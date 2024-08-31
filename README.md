@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sam-KWS1969
-- 👀 I’m interested in learning to code. Very newbie this.
+- 👀 I’m interested in learning to code. Very new to this.
 - 🌱 I’m currently learning Python and bubble.io
 - 💞️ I’m looking to collaborate on bubble.io app
 - 📫 you can reach me at samsuyala@gmail.com or kuntawit.teachers@gmail.com
